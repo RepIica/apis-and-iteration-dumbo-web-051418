@@ -1,6 +1,6 @@
 def welcome
   # puts out a welcome message here!
-  puts "Welcome to our Star Wars API"
+  puts "Welcome to our Star Wars info database!"
 
 end
 
