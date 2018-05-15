@@ -7,3 +7,4 @@ welcome
 character = get_character_from_user
 puts "The Movies for #{character} are:"
 show_character_movies(character)
+#lol
